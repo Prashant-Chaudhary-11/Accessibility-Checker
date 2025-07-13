@@ -6,7 +6,7 @@
 
 ## 📸 Demo
 
-![Code A11y Checker Screenshot](https://prnt.sc/_Z2fspTOnbXA) <!-- Add your screenshot or remove this line -->
+![Code A11y Checker Screenshot]([https://prnt.sc/_Z2fspTOnbXA](https://prnt.sc/_Z2fspTOnbXA)) <!-- Add your screenshot or remove this line -->
 
 Live Demo (if hosted): _Coming soon / Add your link here_
 

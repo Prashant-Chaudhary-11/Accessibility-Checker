@@ -9,8 +9,7 @@
 <img width="1414" height="759" alt="image" src="https://github.com/user-attachments/assets/ee10aad5-87db-414b-8020-575d9f8be04b" />
 
 
-Live Demo (if hosted): _Coming soon / Add your link here_
-
+Live Demo: _Coming soon
 ---
 
 ## 🚀 Features
